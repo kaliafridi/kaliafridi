@@ -22,6 +22,12 @@ I'm a Ethical hacker and Pentester. specializing in Python and Fast action Pente
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-black?style=flat-square&logo=burpsuite&logoColor=red)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-black?style=flat-square&logo=owasp)
+![Nmap](https://img.shields.io/badge/-Nmap-black?style=flat-square&logo=nmap)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark)
+![Metasploit](https://img.shields.io/badge/-Metasploit-black?style=flat-square&logo=metasploit)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kali-linux)
 
 ## 📈 My GitHub Stats
 
