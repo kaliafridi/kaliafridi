@@ -6,9 +6,9 @@
 
 I'm a Ethical hacker and Pentester. specializing in Python and Fast action Pentesting. I'm passionate about Cybersecurity, and I love to create innovative tools and solutions using Visual Studio/Python.
 
-- 🔭 I’m currently working on WokirX
-- 🌱 I’m currently Prepearing for Comptia Security+
-- 👯 I’m looking to collaborate on SQL Automatation tools
+- 🔭 I’m currently working on WokirX-V2.1
+- 🌱 I’m currently enhancing my skills on Hack The Box
+- 👯 I’m looking to collaborate on SQL Automation tools
 - 💬 Ask me about Hacking.
 - 📫 How to reach me: Email: [rayyanafridi70@gmail.com](mailto:rayyanafridi70@gmail.com)
 - 😄 Pronouns: He/Him
